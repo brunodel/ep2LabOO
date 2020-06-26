@@ -1,0 +1,827 @@
+# depslib dependency file v1.0
+1572988465 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573133117 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1572985950 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+
+1572977713 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1572977713 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1572976978 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1571593861 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1514140574 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\main.cpp
+	<iostream>
+
+1572985705 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1572977713 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1572978222 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1572984508 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1572982759 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573133060 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573133117 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1572988466 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573147700 c:\users\10258991\desktop\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1572985952 c:\users\10258991\desktop\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+
+1572977714 c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1572977714 c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1572976980 c:\users\10258991\desktop\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1573147700 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573147909 c:\users\10258991\desktop\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1571593862 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1514140574 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+
+1573147424 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1572977714 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1572978224 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1572984510 source:c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1572982760 c:\users\10258991\desktop\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573148296 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573148296 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1573152172 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1573148296 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1573148296 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1573148296 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1573148296 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573148296 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1573148296 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1573149176 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+
+1573569874 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1573148296 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1573566663 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1573566663 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573148297 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573568082 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573472963 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1573472654 source:c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1573225699 c:\users\bdelb_000\desktop\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1573587104 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573667888 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573667034 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573667034 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1573587104 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573584085 source:c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1573583874 c:\users\10258991\desktop\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573587102 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573587102 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573587102 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573587102 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1573587102 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573587102 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1573587103 c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1573587103 source:c:\users\bdelb_000\desktop\ep2_100%atualizado\ep2\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573675552 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573675552 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1573675553 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1573675553 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1573675553 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1573675553 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1573849288 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1573675552 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573675552 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1573675552 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573675552 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1573675552 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574075067 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+
+1573675553 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1573675553 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1573675553 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574075481 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1573677250 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1573675553 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574077780 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1574079089 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574085332 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1574080000 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1573675554 c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1573675554 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574078283 source:c:\users\10258991\desktop\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574087032 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1574087032 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.h
+	"Equipe.h"
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+
+1574087032 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574087032 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574087032 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574087032 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1574087032 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574087033 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1574087033 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574087033 c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574087033 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1574087033 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574087033 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574089409 source:c:\users\bdelb_000\desktop\ep2zica\ep2zica\ep2zica\ep2\ep2\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574094060 source:c:\users\10258991\desktop\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1574094060 c:\users\10258991\desktop\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1574094061 c:\users\10258991\desktop\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574094061 c:\users\10258991\desktop\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1574094061 c:\users\10258991\desktop\ep2bruno\tabela.h
+	"Equipe.h"
+
+1574094061 c:\users\10258991\desktop\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574097676 c:\users\10258991\desktop\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+	<vector>
+
+1574094060 source:c:\users\10258991\desktop\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574094060 c:\users\10258991\desktop\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574094060 source:c:\users\10258991\desktop\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574094060 c:\users\10258991\desktop\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1574094061 source:c:\users\10258991\desktop\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574094061 source:c:\users\10258991\desktop\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1574094061 source:c:\users\10258991\desktop\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574094061 c:\users\10258991\desktop\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574094061 source:c:\users\10258991\desktop\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1574094061 source:c:\users\10258991\desktop\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574099325 source:c:\users\10258991\desktop\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574098304 source:c:\users\10258991\desktop\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574108194 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabela.h
+	"Equipe.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574108196 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+	<vector>
+
+1574108194 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574108194 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574114146 source:c:\users\bdelb_000\desktop\ep2bruno\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574108194 source:c:\users\bdelb_000\desktop\ep2bruno\competicao.cpp
+	"Competicao.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2bruno\competicao.h
+	"Modalidade.h"
+
+1574178202 c:\users\bdelb_000\desktop\ep2bruno\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\tabelacomordem.h
+	"Tabela.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\tabela.h
+	"Equipe.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2bruno\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574108196 c:\users\bdelb_000\desktop\ep2bruno\tabelacompontos.h
+	"Tabela.h"
+	<vector>
+
+1574185628 source:c:\users\bdelb_000\desktop\ep2bruno\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574173954 c:\users\bdelb_000\desktop\ep2bruno\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574184539 source:c:\users\bdelb_000\desktop\ep2bruno\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2bruno\competicaosimples.h
+	"Competicao.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\equipe.cpp
+	"Equipe.h"
+
+1574188041 source:c:\users\bdelb_000\desktop\ep2bruno\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574166666 c:\users\bdelb_000\desktop\ep2bruno\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574184236 source:c:\users\bdelb_000\desktop\ep2bruno\modalidade.cpp
+	"Modalidade.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2bruno\tabela.cpp
+	"Tabela.h"
+
+1574176435 source:c:\users\bdelb_000\desktop\ep2bruno\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574170081 source:c:\users\bdelb_000\desktop\ep2bruno\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574183470 source:c:\users\bdelb_000\desktop\ep2bruno\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574108194 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicao.cpp
+	"Competicao.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicao.h
+	"Modalidade.h"
+
+1574191545 c:\users\bdelb_000\desktop\ep2teoricamentepronto\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabelacomordem.h
+	"Tabela.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabela.h
+	"Equipe.h"
+
+1574108195 c:\users\bdelb_000\desktop\ep2teoricamentepronto\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574108196 c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabelacompontos.h
+	"Tabela.h"
+	<vector>
+
+1574189734 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574173954 c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574184539 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574108194 c:\users\bdelb_000\desktop\ep2teoricamentepronto\competicaosimples.h
+	"Competicao.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\equipe.cpp
+	"Equipe.h"
+
+1574217506 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574198300 c:\users\bdelb_000\desktop\ep2teoricamentepronto\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574191702 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\modalidade.cpp
+	"Modalidade.h"
+
+1574198300 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574108195 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabela.cpp
+	"Tabela.h"
+
+1574176435 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574217482 source:c:\users\bdelb_000\desktop\ep2teoricamentepronto\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574108194 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicao.cpp
+	"Competicao.h"
+
+1574108194 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicao.h
+	"Modalidade.h"
+
+1574191545 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\modalidade.h
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+
+1574108195 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabelacomordem.h
+	"Tabela.h"
+
+1574108195 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabela.h
+	"Equipe.h"
+
+1574108195 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\equipe.h
+	<stdexcept>
+	<iostream>
+
+1574108196 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabelacompontos.h
+	"Tabela.h"
+	<vector>
+
+1574189734 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574173954 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicaomultimodalidades.h
+	"Competicao.h"
+	<vector>
+	<list>
+
+1574184539 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574108194 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\competicaosimples.h
+	"Competicao.h"
+
+1574108195 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\equipe.cpp
+	"Equipe.h"
+
+1574217506 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\main.cpp
+	<iostream>
+	"CompeticaoSimples.h"
+	"CompeticaoMultimodalidades.h"
+	"PersistenciaDeCompeticao.h"
+
+1574198300 c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\persistenciadecompeticao.h
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+
+1574191702 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\modalidade.cpp
+	"Modalidade.h"
+
+1574198300 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+	<fstream>
+	<stdexcept>
+
+1574108195 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabela.cpp
+	"Tabela.h"
+
+1574176435 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574217482 source:c:\users\bdelb_000\desktop\poli\6 semestre\lab oo\ep2\ep2certo\ep2teoricamentepronto\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
